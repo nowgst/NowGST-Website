@@ -799,6 +799,11 @@ footer small {
 }
 
 
+.font-wt-500 {
+    font-weight: 500 !important;
+}
+
+
 #home {
     background: url('assets/top-background.jpg') no-repeat center center;
     background-size: cover;
