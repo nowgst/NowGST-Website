@@ -705,6 +705,20 @@ footer small {
 
 
 /* CUSTOM */
+.left-content {
+    display: flex !important;
+    justify-content: left !important;
+    align-items: left !important;
+    text-align: left !important;
+}
+
+.right-content {
+    display: flex !important;
+    justify-content: right !important;
+    align-items: right !important;
+    text-align: right !important;
+}
+
 .center-content {
     display: flex !important;
     justify-content: center !important;
@@ -801,6 +815,14 @@ footer small {
 
 .font-wt-500 {
     font-weight: 500 !important;
+}
+
+.margin-right-10 {
+    margin-right: 10px;
+}
+
+.margin-right-25 {
+    margin-right: 25px !important;
 }
 
 
@@ -1059,8 +1081,8 @@ footer small {
 
 
 .icon-box img {
-	width: 40px;
-  height: 40px;
+    width: 40px;
+    height: 40px;
 }
 
 .icon-box{
@@ -1070,4 +1092,17 @@ footer small {
 .value-box {
     margin-right: 10px;
 		font-size: larger;
+}
+
+#footer-logo {
+    max-width: 25%;
+}
+
+.footer-text {
+    font-weight: 400;
+    font-size: larger;
+}
+
+.footer-icon {
+    max-width: 10%;
 }
