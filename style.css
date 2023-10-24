@@ -166,7 +166,7 @@ section {
 .btn {
 	font-size: 14px;
 	font-weight: 400;
-	border-radius: 3px!important;
+	border-radius: 10px!important;
 	box-shadow: 0 2px 3px 0 rgba(0,0,0,.05), 0 1px 2px 0 rgba(0,0,0,.08);
 }
 
